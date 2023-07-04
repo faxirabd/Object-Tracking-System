@@ -1,0 +1,57 @@
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe.config
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.pdb
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.dll
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.UI.dll
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.Util.dll
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ZedGraph.dll
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.pdb
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.xml
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.UI.pdb
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.UI.xml
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.Util.pdb
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.Util.xml
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ZedGraph.xml
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.Form1.resources
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.Properties.Resources.resources
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.csproj.GenerateResource.Cache
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.exe
+c:\users\zanyar ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.pdb
+C:\Users\Zanyar Ahmad\documents\visual studio 2012\Projects\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.csprojResolveAssemblyReference.cache
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe.config
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.exe
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.pdb
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.pdb
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ZedGraph.dll
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.pdb
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.xml
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.UI.pdb
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.CV.UI.xml
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.Util.pdb
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\Emgu.Util.xml
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ZedGraph.xml
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.csprojResolveAssemblyReference.cache
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.Form1.resources
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.Properties.Resources.resources
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.csproj.GenerateResource.Cache
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe.config
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.exe
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.pdb
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.pdb
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\bin\Debug\Emgu.CV.xml
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.csprojResolveAssemblyReference.cache
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.Form1.resources
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.Properties.Resources.resources
+D:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2_\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.csproj.GenerateResource.Cache
+C:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe.config
+C:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.exe
+C:\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.pdb
+C:\MyData\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\bin\Debug\ObjectTracking_V2.exe.config
+C:\MyData\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.exe
+C:\MyData\SoranUniversity\AcadimicYear2015-2016\FinalProject\Faxir\Zaniar\MyObjectTracking\ObjectTracking_V2\ObjectTracking_V2\obj\Debug\ObjectTracking_V2.pdb
